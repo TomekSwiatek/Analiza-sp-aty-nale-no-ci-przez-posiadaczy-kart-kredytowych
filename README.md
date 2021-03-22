@@ -1,7 +1,7 @@
-# Analiza-splaty-naleznosci-przez-posiadaczy-kart-kredytowych
-Projekt wykonany w Databricks z wykorzystaniem PySpark. 
+# Analysis-of-debt-repayment-by-credit-card-holders
+Project made in Databricks using PySpark.
 
-Oryginalny plik z rozszerzeniem .py. 
+The actual main file with the extension .py.
 
 ### Wstęp
 
