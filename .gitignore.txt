@@ -1,0 +1,1 @@
+Analiza spłaty należności przez posiadaczy kart kredytowych.ipynb
