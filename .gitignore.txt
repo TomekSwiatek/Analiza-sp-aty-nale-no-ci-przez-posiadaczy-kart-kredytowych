@@ -1,1 +1,1 @@
-Analiza spłaty należności przez posiadaczy kart kredytowych.ipynb
+Analysis o debt repayment by credit card holders.ipynb
