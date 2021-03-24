@@ -3,7 +3,7 @@ Project made in Databricks using PySpark.
 
 The actual main file with the extension .py.
 
-### Wstęp
+### Introduction
 
 Credit card holders are clients of a large commercial bank in Taiwan operating in the credit market, including issuing credit cards for its customers. The task is to optimize the bank's income from existing customers who have a credit card. The company has a base of 30,000 customers. The aim of the project is to analyze the data set and investigate which customers (with what characteristics) are most likely to default on their loan next month.
 
